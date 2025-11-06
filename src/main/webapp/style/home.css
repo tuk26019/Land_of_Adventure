@@ -1,0 +1,24 @@
+.home {
+    background-color: rgb(225, 232, 246);
+    padding: 1rem;
+    font-family: 'Annai MN', sans-serif;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.home h3{
+    color: rgb(7, 36, 181);
+    margin-top: 0rem;
+}
+.images {
+    display: flex;
+    justify-content: center; 
+    margin-top: 2rem;
+}
+
+.images img {
+    width: 50%;
+    border-radius: 0.5rem;
+    box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.7);
+    margin: 0 1rem;
+}

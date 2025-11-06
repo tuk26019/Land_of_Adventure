@@ -1,0 +1,16 @@
+.blog {
+    background-color: rgb(222, 232, 239);
+    padding:1rem;
+    font-family: Annai MN;
+    font-weight: bold;
+}
+.blog h3 {
+    color:rgb(7, 36, 181);
+    text-align: center;
+    margin-top:0rem;
+}
+.blog h5 {
+    color:rgb(0, 0, 0);
+    margin-top:0rem;
+    font-weight: bold;
+}

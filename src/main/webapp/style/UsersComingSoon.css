@@ -1,0 +1,13 @@
+.usersComingSoon {
+    background-color: pink;
+    padding:1rem;
+}
+.usersComingSoon h3 {
+    color:rgb(117, 186, 205);
+    margin-top:0rem;
+}
+
+.usersComingSoon p {
+    color:rgb(14, 37, 85);
+    margin-top:0rem;
+}

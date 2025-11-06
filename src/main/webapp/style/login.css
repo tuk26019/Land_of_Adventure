@@ -1,0 +1,16 @@
+#login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#login form input,
+#login form button {
+    margin: 5px;
+}

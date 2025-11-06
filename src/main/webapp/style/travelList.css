@@ -1,0 +1,25 @@
+.travelList {
+    background-color: rgb(144, 238, 224);
+    border-radius: 0.5rem;
+    padding:0.5rem;
+    margin:0.5rem;
+}
+.travelist h2 {
+    margin:0rem;
+}
+.travelList .travel {
+    background-color: lightgrey;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+.travelList .travel p {
+    margin-top: 0rem;
+}
+.travelList .travel button { 
+    background-color:lightblue;
+}
+.travelList .travel img {
+    max-width: 200px;
+    max-height: 200px;
+}
